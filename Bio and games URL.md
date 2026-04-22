@@ -6,6 +6,12 @@
 
 Zero-dependency canvas games built for smartphones. Lay your device flat on a table and play.
 
+**Nebular Painter**
+
+Paint the void in your browser. Fractal Julia stamps, kaleidoscope mirrors, and auto-woven mandalas — every stroke replicates across sacred axes. Import your own sky, choose from the Cathedral palette, and export your nebula. One HTML file, zero dependencies, infinite cosmos.
+
+https://nebular-painter.netlify.app/
+
 **Cathédrale 1995 — Solar System**
 
 A digital orrery in your pocket. Pinch, drag, and accelerate time to watch Keplerian orbits unfold. Activate Traces to draw orbital ellipses across the canvas, then zoom and pan to explore the artwork. Compare planets and moons with the Relier tool.
