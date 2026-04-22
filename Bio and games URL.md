@@ -6,6 +6,12 @@
 
 Zero-dependency canvas games built for smartphones. Lay your device flat on a table and play.
 
+**Cathédrale 1995 — Solar System**
+
+A digital orrery in your pocket. Pinch, drag, and accelerate time to watch Keplerian orbits unfold. Activate Traces to draw orbital ellipses across the canvas, then zoom and pan to explore the artwork. Compare planets and moons with the Relier tool.
+
+https://systeme-solaire-interactif.netlify.app/
+
 **Ulam Cathedral**
 
 One million primes in your palm. Drag, pinch, and draw geometric ropes between the stones of the spiral. Each link is classified by its own arithmetic family — Echo, Resonant, Diagonal, and more.
