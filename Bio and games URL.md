@@ -6,6 +6,10 @@
 
 Zero-dependency canvas games built for smartphones. Lay your device flat on a table and play.
 
+**Ulam Cathedral**
+One million primes in your palm. Drag, pinch, and draw geometric ropes between the stones of the spiral. Each link is classified by its own arithmetic family — Echo, Resonant, Diagonal, and more.
+https://interactive-ulam.netlify.app/
+
 **Prime Panic**  
 Two-player prime-number Pong. A new prime-valued ball spawns every goal. First to 19 wins.  
 https://architecte1995-prime-panic.netlify.app/
