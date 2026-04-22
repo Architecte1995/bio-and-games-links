@@ -7,6 +7,7 @@
 Zero-dependency canvas games built for smartphones. Lay your device flat on a table and play.
 
 **Ulam Cathedral**
+
 One million primes in your palm. Drag, pinch, and draw geometric ropes between the stones of the spiral. Each link is classified by its own arithmetic family — Echo, Resonant, Diagonal, and more.
 https://interactive-ulam.netlify.app/
 
