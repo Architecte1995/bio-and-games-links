@@ -6,6 +6,12 @@
 
 Zero-dependency canvas games built for smartphones. Lay your device flat on a table and play.
 
+**PDF Forge**
+
+Merge PDFs without sending your files to a server. Select multiple documents, reorder them by drag-and-drop, and combine into one — directly in your browser. No upload, no ads, no tracking. Works offline once loaded.
+
+See the `pdf-forge` GitHub repo for the standalone HTML file.
+
 **Nebular Painter**
 
 Paint the void in your browser. Fractal Julia stamps, kaleidoscope mirrors, and auto-woven mandalas — every stroke replicates across sacred axes. Import your own sky, choose from the Cathedral palette, and export your nebula. One HTML file, zero dependencies, infinite cosmos.
