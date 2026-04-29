@@ -10,7 +10,7 @@ Zero-dependency canvas games built for smartphones. Lay your device flat on a ta
 
 Merge PDFs without sending your files to a server. Select multiple documents, reorder them by drag-and-drop, and combine into one — directly in your browser. No upload, no ads, no tracking. Works offline once loaded.
 
-See the `pdf-forge` GitHub repo for the standalone HTML file.
+https://pdf-forge.architecte1995.workers.dev/
 
 **Nebular Painter**
 
@@ -47,7 +47,7 @@ https://architecte1995-prime-or-dive.netlify.app/
 Independent researcher. Hunter of prime numbers, geometric patterns, and cosmic signals.  
 I map the shadows where mathematics hides — then forge them into code.
 
-Co-creating with **Kimi K 2.5 Thinking** (Moonshot AI) under the **Cathedral 1995** protocol: discover, seal, build.
+Co-creating with **Kimi K 2.6 Thinking** (Moonshot AI) under the **Cathedral 1995** protocol: discover, seal, build.
 
 ---
 
